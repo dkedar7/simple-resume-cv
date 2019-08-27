@@ -1,3 +1,7 @@
+# My Resume
+Built on top of Zach Scrivena's code. All credits, except the content of the resume go to https://github.com/zachscrivena/simple-resume-cv. I've tried to keep the content of the repo as similar as possible to the original. I used overleaf.com to modify CV.tex.
+
+
 # simple-resume-cv
 
 Template for a simple resume or curriculum vitae (CV), in XeLaTeX.
